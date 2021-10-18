@@ -1,5 +1,17 @@
+.header {
+    text-align: center;
+    color: green;
+    font-size: 20px;
+}
+.header nav ul li{
+    display: inline;
+    
+    color: darkblue;
 
-.main-image{
-    height: 100px;
-    width: 100px;
+}
+.hero img{
+    display: block;
+    height: 500px;
+    width: 500px;
+    float: right;
 }
